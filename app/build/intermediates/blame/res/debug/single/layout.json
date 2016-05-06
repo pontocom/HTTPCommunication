@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/cserrao/AndroidStudioProjects/HTTPCommunication/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/cserrao/AndroidStudioProjects/HTTPCommunication/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/cserrao/Downloads/android/aulasdaam-master/AndroidStudioSamples/HTTPCommunication/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/cserrao/Downloads/android/aulasdaam-master/AndroidStudioSamples/HTTPCommunication/app/src/main/res/layout/activity_main.xml"
+    }
+]
